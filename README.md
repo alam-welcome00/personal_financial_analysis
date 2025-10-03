@@ -88,3 +88,6 @@ Proved the value of DIY analytics in turning raw financial statements into actio
 - Excel → Data Cleaning & Preparation
 
 - Power BI → Data Modeling, DAX, Visualization
+
+## Dashboard
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/194a9b37-c780-4222-be9f-0855310afe02" />
